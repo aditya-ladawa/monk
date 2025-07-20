@@ -7,6 +7,13 @@
 This repository contains a fully modular **multi-agent system** built with **LangGraph**, designed to automate the journey from **skill discovery** to **learning roadmap** to **income generation**. The system is orchestrated via a top-level supervisor that delegates tasks to specialized agents or agent teams, all powered by OpenAI models, Tavily Search, and local file tools.
 
 ---
+# APIs
+
+**OPENAI**
+
+**TAVILY_SEARCH**
+---
+
 
 ## 🚀 What It Does
 
